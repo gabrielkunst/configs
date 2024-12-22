@@ -1,5 +1,5 @@
 {
-  "name": "@kunst/config",
+  "name": "@gabrielktz/config",
   "version": "1.0.0",
   "private": false,
   "description": "Shared ESLint and Prettier configurations for React and Node.js projects",
