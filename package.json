@@ -30,5 +30,6 @@
     "typescript": {
       "optional": true
     }
-  }
+  },
+  "repository": "gabrielkunst/configs"
 }
